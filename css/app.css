@@ -1,0 +1,127 @@
+@font-face {
+  font-family: 'Century-Gothic-Regular';
+  src: url('../fonts/GOTHIC.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Century-Gothic-Bold';
+  src: url('../fonts/GOTHICB.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Century-Gothic-Bolditalic';
+  src: url('../fonts/GOTHICB.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Century-Gothic-Italic';
+  src: url('../fonts/GOTHICB.ttf') format('truetype');
+}
+header{
+    background: #fff;
+    height: 52px;
+}
+.navbar-default {
+    background-color: #fff;
+    border-color: #fff;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #333;
+    font-weight: 700;
+    transition:all 0.5s;
+}
+.navbar-default .navbar-nav > li > a:hover{
+    color: #fff;
+    font-weight: 700;
+    background: #324266;
+    border-radius: 11px;
+}
+#banner{
+    width: 100%;
+    height: 500px;
+    background: url(../img/banner.png);
+    background-size: cover;
+    background-position: center;
+}
+#inicio{
+    width: 100%;
+    background: url(../img/our_home.png);
+    background-size: cover;
+    background-position: center;
+}
+.btn-default {
+    color: #fff;
+    font-weight: 700;
+    background-color: #7c7c7c;
+    border-color: #7c7c7c;
+    transition:all 0.5s;
+}
+.textosinicio{
+    padding: 50px;
+    text-align: center;
+    color: #004eff;
+}
+.textosinicio h1{
+  font-family: 'Century-Gothic-Bold';
+}
+.textosinicio p{
+    margin: 0 0 10px;
+    font-size: 16px;
+}
+#servicios {
+    text-align: center;
+    padding-bottom: 30px;
+}
+.servicio {
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 18px;
+    color: #333;
+    transition:all 0.5s;
+}
+.servicio:hover{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    color: #fff;
+    background: #004eff;
+    padding: 18px;
+    border-radius: 11px;
+}
+#servicios h1 {
+    font-size: 21px;
+    font-weight: 700;
+    color: #666;
+}
+#servicios h2{
+    font-size: 17px;
+}
+footer{
+    width: 100%;
+    background: url(../img/footer.png);
+    background-size: cover;
+    background-position: center;
+}
+.textosfooter {
+    text-align: right;
+    padding-bottom: 24px;
+}
+.textosfooter h1 {
+  color: #004eff;
+  font-family: 'Century-Gothic-Bold';
+}
+.textosfooter h2{
+  color: #004eff;
+  font-family: 'Century-Gothic-Bold';
+  margin-top: 8px;
+}
+.textosfooter p {
+  margin: 0 0 10px;
+  font-size: 16px;
+  color: #636363;
+}
+.textosfooter span{
+    font-size: 3rem;
+}
+hr {
+    margin-top: 15px;
+    margin-bottom: 0;
+    border: 0;
+    border-top: 2px solid #666;
+}
