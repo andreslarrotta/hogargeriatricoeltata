@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/services/icomoon.eot?kjzj30');
+  src:  url('../fonts/services/icomoon.eot?kjzj30#iefix') format('embedded-opentype'),
+    url('../fonts/services/icomoon.ttf?kjzj30') format('truetype'),
+    url('../fonts/services/icomoon.woff?kjzj30') format('woff'),
+    url('../fonts/services/icomoon.svg?kjzj30#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-familias:before {
+  content: "\e900";
+}
+.icon-actividades:before {
+  content: "\e901";
+}
+.icon-comidas:before {
+  content: "\e902";
+}
+.icon-asesoria:before {
+  content: "\e903";
+}
+.icon-nutricion:before {
+  content: "\e904";
+}
+.icon-enfermero:before {
+  content: "\e905";
+}
