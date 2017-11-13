@@ -21,6 +21,7 @@ header {
     width: 100%;
     z-index: 9;
     border-bottom: 1px solid #004eff;
+    top: 0;
 }
 .navbar-default {
     background-color: #fff;
@@ -77,6 +78,7 @@ header {
 #servicios {
     text-align: center;
     padding-bottom: 30px;
+    margin-top: 52px;
 }
 .servicio {
     margin-top: 20px;
@@ -123,12 +125,13 @@ header {
   width: 254px;
 }
 #mision {
-    text-align: center;
+    text-align: justify;
     padding-top: 30px;
     padding-bottom: 30px;
 }
 #mision h1 {
     font-size: 21px;
+    text-align: center;
     font-weight: 700;
     color: #666;
 }
@@ -140,6 +143,7 @@ header {
     margin-bottom: 30px;
     padding: 18px;
     color: #333;
+    text-align: justify;
     transition:all 0.5s;
 }
 #galeria img{
