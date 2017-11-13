@@ -14,9 +14,13 @@
   font-family: 'Century-Gothic-Italic';
   src: url('../fonts/GOTHICB.ttf') format('truetype');
 }
-header{
+header {
     background: #fff;
-    height: 52px;
+    height: 53px;
+    position: fixed;
+    width: 100%;
+    z-index: 9;
+    border-bottom: 1px solid #004eff;
 }
 .navbar-default {
     background-color: #fff;
@@ -25,6 +29,9 @@ header{
 .navbar-default .navbar-nav > li > a {
     color: #333;
     font-weight: 700;
+    padding: 8px;
+    margin-top: 7px;
+    margin-left: 10px;
     transition:all 0.5s;
 }
 .navbar-default .navbar-nav > li > a:hover{
@@ -32,6 +39,8 @@ header{
     font-weight: 700;
     background: #324266;
     border-radius: 11px;
+    padding: 8px;
+    margin-top: 7px;
 }
 #banner{
     width: 100%;
@@ -92,6 +101,55 @@ header{
 #servicios h2{
     font-size: 17px;
 }
+#home{
+    width: 100%;
+    height: 680px;
+    background: url(../img/bg_our_home.png);
+    background-size: cover;
+    background-position: center;
+}
+#descripcion{
+    background: #00ba89;
+}
+.textosdescripcion {
+    padding: 0 50px 50px 50px;
+    text-align: left;
+    color: #fff;
+}
+.textosdescripcion p{
+  margin-bottom: 39px;
+}
+.personalmedico img{
+  width: 254px;
+}
+#mision {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#mision h1 {
+    font-size: 21px;
+    font-weight: 700;
+    color: #666;
+}
+#mision h2{
+    font-size: 17px;
+}
+.textosmision{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 18px;
+    color: #333;
+    transition:all 0.5s;
+}
+#galeria img{
+  width: 100%;
+}
+#vision {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
 footer{
     width: 100%;
     background: url(../img/footer.png);
@@ -118,6 +176,12 @@ footer{
 }
 .textosfooter span{
     font-size: 3rem;
+}
+.footerblue{
+    background: #004eff;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
 }
 hr {
     margin-top: 15px;
