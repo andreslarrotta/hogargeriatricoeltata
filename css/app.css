@@ -49,6 +49,7 @@ header {
     background: url(../img/banner.png);
     background-size: cover;
     background-position: center;
+    margin-top: 52px;
 }
 #inicio{
     width: 100%;
