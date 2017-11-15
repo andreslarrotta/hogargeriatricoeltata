@@ -1,14 +1,14 @@
 .carousel-wrap {
-  margin: 0px 90px 90px 90px;
-  width: 80%;
-  position: relative;
+  margin: 0 auto;
+      width: 80%;
+      position: relative;
 }
 
 /* fix blank or flashing items on carousel */
 .owl-carousel .item {
   position: relative;
-  z-index: 100; 
-  -webkit-backface-visibility: hidden; 
+  z-index: 100;
+  -webkit-backface-visibility: hidden;
 }
 
 /* end fix */
