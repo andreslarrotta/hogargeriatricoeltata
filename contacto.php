@@ -66,23 +66,18 @@
     <div class="container">
       <div class="row">
         <div class="col-md-6">
-          <form>
+          <form method="post" action="email.php">
                 <div class="form-group">
-
-                  <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Nombre">
+                  <input type="text" name="nombre" class="form-control" id="exampleFormControlInput1" placeholder="Nombre" required="">
                 </div>
                 <div class="form-group">
-
-                  <input type="email" class="form-control" id="exampleFormControlInput2" placeholder="Email">
+                  <input type="email" name="correo" class="form-control" id="exampleFormControlInput2" placeholder="Email" required="">
                 </div>
                 <div class="form-group">
-
-                  <input type="email" class="form-control" id="exampleFormControlInput3" placeholder="Teléfono">
+                  <input type="number" name="telefono" class="form-control" id="exampleFormControlInput3" placeholder="Teléfono" required="">
                 </div>
-
                 <div class="form-group">
-
-                  <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="Mensajes" rows="3"></textarea>
+                  <textarea class="form-control" name="mensaje" id="exampleFormControlTextarea1" placeholder="Mensajes" rows="3" required=""></textarea>
                 </div>
 
                 <button type="button" class="btn btn-primary">Enviar</button>
