@@ -101,9 +101,9 @@
         <div class="col-xs-12 col-sm-8 col-md-8">
           <div class="textosinicio">
             <p>Fundación para el cuidado y bienestar del adulto mayor</p>
-            <h1>El tata</h1>
+            <h1>El Tata</h1>
             <p>Centro especializado en la atención integral del adulto mayor, el cual tiene como referentes a la familia, la ciencia y la educación como ejes centrales en un envejecimiento digno y exitoso.</p>
-            <a class="btn btn-default" href="#" role="button">Contáctenos</a>
+            <a class="btn btn-default" href="contacto.php" role="button">Contáctenos</a>
           </div>
         </div>
         <div class="col-xs-12 col-md-4"></div>
@@ -134,7 +134,7 @@
           <div class="servicio">
             <span class="icon-asesoria"></span>
             <h2>ASESORÍA<br>
-              PSICOLOGÍCA
+              PSICOLÓGICA
             </h2>
           </div>
         </div>
@@ -157,7 +157,7 @@
         <div class="col-sm-6 col-md-6 col-lg-4">
           <div class="servicio">
             <span class="icon-familias"></span>
-            <h2>ASESORÍA PSICOLOGÍCA<br>
+            <h2>ASESORÍA PSICOLÓGICA<br>
               A FAMILIAS
             </h2>
           </div>
@@ -173,10 +173,10 @@
           <div class="textosfooter">
             <h1>Contáctenos</h1>
             <p>
-              Dirección: Carrera 9A #134B-07 Bogotá, Colombia<br>
-              Teléfono: +(57) (1) 7588734 - 4817079<br>
-              Celular: 3165798847<br>
-              Email: correo.electronico@hotmail.com<br>
+              Dirección: Calle 23 # 85a 23 Bogotá, Colombia<br>
+              Teléfono: 5169834<br>
+              Celular: 3165247426<br>
+                Email: <a href="Hogargeriatricoeltata@gmail.com">Hogargeriatricoeltata@gmail.com</a><br>
             </p>
             <hr>
             <h2>Síguenos</h2>
@@ -189,8 +189,8 @@
       <div class="footerblue">
         <div class="container">
           <div class="row">
-            Dirección: Carrera 9A #134B-07 Bogotá, Colombia Teléfono: +(57) (1) 7588734 - 4817079<br>
-            Celular: 3165798847 Email: correo.electronico@hotmail.com
+            Dirección:  Calle 23 # 85a 23 Bogotá, Colombia Teléfono: 5169834<br>
+            Celular: 3165247426 Email: <a href="Hogargeriatricoeltata@gmail.com">Hogargeriatricoeltata@gmail.com</a>
           </div>
         </div>
       </div>
