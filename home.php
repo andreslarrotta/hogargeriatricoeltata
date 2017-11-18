@@ -117,18 +117,18 @@
   <section id="galeria">
    <div class="carousel-wrap">
     <div class="owl-carousel">
-     <div class="item"><img src="http://placehold.it/150x150"></div>
-     <div class="item"><img src="http://placehold.it/150x150"></div>
-     <div class="item"><img src="http://placehold.it/150x150"></div>
-     <div class="item"><img src="http://placehold.it/150x150"></div>
-     <div class="item"><img src="http://placehold.it/150x150"></div>
-     <div class="item"><img src="http://placehold.it/150x150"></div>
-     <div class="item"><img src="http://placehold.it/150x150"></div>
-     <div class="item"><img src="http://placehold.it/150x150"></div>
-     <div class="item"><img src="http://placehold.it/150x150"></div>
-     <div class="item"><img src="http://placehold.it/150x150"></div>
-     <div class="item"><img src="http://placehold.it/150x150"></div>
-     <div class="item"><img src="http://placehold.it/150x150"></div>
+      <div class="item"><img src="img/bannerp/1.jpg"></div>
+     <div class="item"><img src="img/bannerp/2.jpg"></div>
+     <div class="item"><img src="img/bannerp/3.jpg"></div>
+     <div class="item"><img src="img/bannerp/4.jpg"></div>
+     <div class="item"><img src="img/bannerp/5.jpg"></div>
+     <div class="item"><img src="img/bannerp/6.jpg"></div>
+     <div class="item"><img src="img/bannerp/7.jpg"></div>
+     <div class="item"><img src="img/bannerp/8.jpg"></div>
+     <div class="item"><img src="img/bannerp/9.jpg"></div>
+     <div class="item"><img src="img/bannerp/10.jpg"></div>
+     <div class="item"><img src="img/bannerp/11.jpg"></div>
+     <div class="item"><img src="img/bannerp/12.jpg"></div>
     </div>
    </div>
   </section>
