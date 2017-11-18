@@ -18,7 +18,7 @@ $(document).ready(function() {
 				data: $form.serialize(),
 				dataType: 'json',
 				success: function(response) {
-					
+
 					$form.formValidation('resetForm', true);
 
 					response.result === 'error' ? $('#alertContainer')

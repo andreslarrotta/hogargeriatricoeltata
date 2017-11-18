@@ -130,10 +130,10 @@
           <div class="textosfooter">
             <h1>Contáctenos</h1>
             <p>
-              Dirección: Carrera 9A # 134 B - 07 Bogotá, Colombia<br>
-              Teléfono: +(57) (1) 7588734 - 4817079<br>
-              Celular: 3165798847<br>
-              Email: correo.electronico@hotmail.com<br>
+              Dirección: Calle 23 # 85a 23 Bogotá, Colombia<br>
+              Teléfono: 5169834<br>
+              Celular: 3165247426<br>
+                Email: <a href="mailto:Hogargeriatricoeltata@gmail.com">Hogargeriatricoeltata@gmail.com</a><br>
             </p>
             <hr>
             <h2>Síguenos</h2>
@@ -143,11 +143,13 @@
         </div>
         </div>
       </div>
-      <div class="footerblue">
+      <<div class="footerblue">
         <div class="container">
           <div class="row">
-            Dirección: Carrera 9A # 134 B - 07 Bogotá, Colombia Teléfono: +(57) (1) 7588734 - 4817079 <br>
-            Celular: 3165798847 Email: correo.electronico@hotmail.com
+            Dirección:  Calle 23 # 85a 23 Bogotá, Colombia Teléfono: 5169834<br>
+            Celular: 3165247426 Email: <a href="mailto:Hogargeriatricoeltata@gmail.com" style="
+    color: white;
+">Hogargeriatricoeltata@gmail.com</a>
           </div>
         </div>
       </div>
