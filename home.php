@@ -35,14 +35,14 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.html">LOGO</a>
+          <a class="navbar-brand" href="index.php">LOGO</a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="index.html">INICIO</a></li>
-            <li><a href="home.html">NUESTRO HOGAR</a></li>
-            <li><a href="servicios.html">SERVICIOS</a></li>
+            <li><a href="index.php">INICIO</a></li>
+            <li><a href="home.php">NUESTRO HOGAR</a></li>
+            <li><a href="servicios.php">SERVICIOS</a></li>
             <!-- <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">SERVICIOS<span class="caret"></span></a>
               <ul class="dropdown-menu">
@@ -53,7 +53,7 @@
                 <li><a href="#">Separated link</a></li>
               </ul>
             </li> -->
-            <li><a href="contacto.html">CONTACTO</a></li>
+            <li><a href="contacto.php">CONTACTO</a></li>
           </ul>
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->
