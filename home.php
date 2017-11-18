@@ -117,7 +117,7 @@
   <section id="galeria">
    <div class="carousel-wrap">
     <div class="owl-carousel">
-      <div class="item"><img src="img/bannerp/1.jpg"></div>
+     <div class="item"><img src="img/bannerp/1.jpg"></div>
      <div class="item"><img src="img/bannerp/2.jpg"></div>
      <div class="item"><img src="img/bannerp/3.jpg"></div>
      <div class="item"><img src="img/bannerp/4.jpg"></div>

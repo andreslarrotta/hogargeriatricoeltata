@@ -1,18 +1,18 @@
 @font-face {
   font-family: 'Century-Gothic-Regular';
-  src: url('../fonts/GOTHIC.ttf') format('truetype');
+  src: url('../fonts/gothic.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Century-Gothic-Bold';
-  src: url('../fonts/GOTHICB.ttf') format('truetype');
+  src: url('../fonts/gothicb.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Century-Gothic-Bolditalic';
-  src: url('../fonts/GOTHICB.ttf') format('truetype');
+  src: url('../fonts/gothicbi.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Century-Gothic-Italic';
-  src: url('../fonts/GOTHICB.ttf') format('truetype');
+  src: url('../fonts/gothici.ttf') format('truetype');
 }
 header {
     background: #fff;
