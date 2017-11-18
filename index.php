@@ -29,7 +29,9 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">LOGO</a>
+          <a class="navbar-brand" href="index.php">
+            <img src="img/logo.png" alt="hogar geriatrico el tata">
+          </a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -69,16 +71,18 @@
     <div class="item active">
       <img src="img/slider/slide1.jpg" alt="">
       <div class="carousel-caption">
-        banner1
       </div>
     </div>
     <div class="item">
       <img src="img/slider/slide2.jpg" alt="">
       <div class="carousel-caption">
-        banner2
       </div>
     </div>
-    ...
+    <div class="item">
+      <img src="img/slider/slide3.jpg" alt="">
+      <div class="carousel-caption">
+      </div>
+    </div>
   </div>
   <!-- Controls -->
   <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
@@ -94,7 +98,7 @@
   <section id="inicio">
     <div class="container">
       <div class="row">
-        <div class="col-xs-12 col-sm-6 col-md-8">
+        <div class="col-xs-12 col-sm-8 col-md-8">
           <div class="textosinicio">
             <p>Fundación para el cuidado y bienestar del adulto mayor</p>
             <h1>El tata</h1>
@@ -110,7 +114,7 @@
     <div class="container">
       <h1>SERVICIOS</h1>
       <div class="row">
-        <div class="col-md-4">
+        <div class="col-sm-6 col-md-6 col-lg-4">
           <div class="servicio">
             <span class="icon-enfermero"></span>
             <h2>ENFERMERO<br>
@@ -118,7 +122,7 @@
             </h2>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-sm-6 col-md-6 col-lg-4">
           <div class="servicio">
             <span class="icon-nutricion"></span>
             <h2>ASESORÍA<br>
@@ -126,7 +130,7 @@
             </h2>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-sm-6 col-md-6 col-lg-4">
           <div class="servicio">
             <span class="icon-asesoria"></span>
             <h2>ASESORÍA<br>
@@ -134,7 +138,7 @@
             </h2>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-sm-6 col-md-6 col-lg-4">
           <div class="servicio">
             <span class="icon-comidas"></span>
             <h2>5 COMIDAS<br>
@@ -142,7 +146,7 @@
             </h2>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-sm-6 col-md-6 col-lg-4">
           <div class="servicio">
             <span class="icon-actividades"></span>
             <h2>ACTIVIDADES<br>
@@ -150,7 +154,7 @@
             </h2>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-sm-6 col-md-6 col-lg-4">
           <div class="servicio">
             <span class="icon-familias"></span>
             <h2>ASESORÍA PSICOLOGÍCA<br>

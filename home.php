@@ -10,8 +10,8 @@
     <title>Nuestro Hogar - Hogar Geriátrico El Tata</title>
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
-    
-    <!-- Styles CARRUSEL PEQUEÑO -->  
+
+    <!-- Styles CARRUSEL PEQUEÑO -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
     <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.3/assets/owl.carousel.min.css'>
     <link rel="stylesheet" href="css/style.css">
@@ -35,7 +35,9 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">LOGO</a>
+          <a class="navbar-brand" href="index.php">
+            <img src="img/logo.png" alt="hogar geriatrico el tata">
+          </a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
