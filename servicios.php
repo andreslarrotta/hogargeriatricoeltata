@@ -65,8 +65,7 @@
             <h2>ENFERMERO<br>
               24 HORAS
             </h2>
-            <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.
-              Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500,</p>
+            <p>Un enfermero que asiste y cuida, apoyando desplazamientos y cuidas básicos, con el fin de monitorear el bienestar en el día a día.</p>
           </div>
         </div>
         <div class="col-md-4">
@@ -75,8 +74,7 @@
             <h2>ASESORÍA<br>
               EN NUTRICIÓN
             </h2>
-            <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.
-              Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500,</p>
+            <p>La nutrición constituye un elemento de importancia para el adulto mayor dado que favorece en tanto a procesos cognitivos, estados de ánimo y el mantenimiento de funciones de socialización, en este caso brindamos asesoría por expertos quienes nos apoyan para que se le brinde una alimentación adecuada a nuestros usuarios.</p>
           </div>
         </div>
         <div class="col-md-4">
@@ -85,18 +83,7 @@
             <h2>ASESORÍA<br>
               PSICOLÓGICA
             </h2>
-            <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.
-              Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500,</p>
-          </div>
-        </div>
-        <div class="col-md-4">
-          <div class="servicio">
-            <span class="icon-comidas"></span>
-            <h2>5 COMIDAS<br>
-              DIARIAS
-            </h2>
-            <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.
-              Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500,</p>
+            <p>Constituye una herramienta enfocada a los familiares y nuestros usuarios, que pretende brindar educación frente a las distintas situaciones que se pueden presentar en tanto al comportamiento, procesos cognitivos  y estado emocional, con el fin de hacer seguimiento de dichos cambios en tanto a que los mismos son determinantes en la calidad de vida.</p>
           </div>
         </div>
         <div class="col-md-4">
@@ -105,8 +92,7 @@
             <h2>ACTIVIDADES<br>
               RECREATIVAS
             </h2>
-            <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.
-              Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500,</p>
+            <p>El movimiento es vida y la vida se lleva en alegría, las actividades recreativas constituyen una serie de elementos que favorecen en la calidad de vida de las personas, mediante el juego y la recreación intelectual favorecemos el desarrollo psicosocial de nuestros usuarios.</p>
           </div>
         </div>
         <div class="col-md-4">
@@ -115,8 +101,7 @@
             <h2>ASESORÍA PSICOLÓGICA<br>
               A FAMILIAS
             </h2>
-            <p>Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto.
-              Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500,</p>
+            <p>La psicología es una herramienta que nos permite identificar aquellas situaciones que nos generan malestar, con el fin de intervenirlas y genera estados de tranquilidad que tienen como propósito orientar al individuo en la resolución de distintas problemáticas, nuestros psicólogos te brindan asesoría sobre como actuar en distintas circunstancias.</p>
           </div>
         </div>
       </div>
@@ -133,7 +118,8 @@
               Dirección: Calle 23 # 85a 23 Bogotá, Colombia<br>
               Teléfono: 5169834<br>
               Celular: 3165247426<br>
-                Email: <a href="mailto:Hogargeriatricoeltata@gmail.com">Hogargeriatricoeltata@gmail.com</a><br>
+                Email: <a href="Hogargeriatricoeltata@gmail.com">Hogargeriatricoeltata@gmail.com</a><br>
+              Email: correo.electronico@hotmail.com<br>
             </p>
             <hr>
             <h2>Síguenos</h2>
@@ -143,13 +129,11 @@
         </div>
         </div>
       </div>
-      <<div class="footerblue">
+      <div class="footerblue">
         <div class="container">
           <div class="row">
             Dirección:  Calle 23 # 85a 23 Bogotá, Colombia Teléfono: 5169834<br>
-            Celular: 3165247426 Email: <a href="mailto:Hogargeriatricoeltata@gmail.com" style="
-    color: white;
-">Hogargeriatricoeltata@gmail.com</a>
+            Celular: 3165247426 Email: <a href="Hogargeriatricoeltata@gmail.com">Hogargeriatricoeltata@gmail.com</a>
           </div>
         </div>
       </div>
